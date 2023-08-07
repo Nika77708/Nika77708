@@ -22,8 +22,9 @@
 <h3>You can reach me here <a href="https://www.linkedin.com/in/olena-kharchenko-fe-dev/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/></a> 
 </h3>
 
-<p> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nika77708&layout=compact)](https://github.com/Nika77708/github-readme-stats) </p>
-<p> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nika77708)](https://github.com/Nika77708/github-readme-stats) </p>
+<p><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Nika77708&layout=compact"/> </p>
+
+<p>&nbsp; <img src ="https://github-readme-stats.vercel.app/api?username=Nika77708"/></p>
 
 [![codewars](https://www.codewars.com/users/Nika77708/badges/small)](https://www.codewars.com/users/Nika77708)
 
