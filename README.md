@@ -19,12 +19,14 @@
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"> 
 </div>
 
-<h3 align="center">You can reach me here <a href="https://www.linkedin.com/in/olena-kharchenko-fe-dev/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/></a> 
+<h3>You can reach me here <a href="https://www.linkedin.com/in/olena-kharchenko-fe-dev/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/></a> 
 </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nika77708)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nika77708&layout=compact)](https://github.com/Nika77708/github-readme-stats)
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/Nika77708)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nika77708)](https://github.com/Nika77708/github-readme-stats)
+
+[![codewars](https://www.codewars.com/users/Nika77708/badges/small)](https://www.codewars.com/users/Nika77708)
 
 <!--
 **Nika77708/Nika77708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
